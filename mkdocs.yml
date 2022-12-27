@@ -5,7 +5,9 @@ theme:
     - navigation.instant
     - content.code.annotate
     - content.tabs.link
-  palette: 
+  palette:
+    primary: teal
+    accent: teal
     # Palette toggle for light mode
     - scheme: default
       toggle:
