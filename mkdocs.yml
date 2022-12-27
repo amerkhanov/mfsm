@@ -6,8 +6,8 @@ theme:
     - content.code.annotate
     - content.tabs.link
   palette:
-    primary: teal
-    accent: teal
+    - primary: teal
+    - accent: teal
     # Palette toggle for light mode
     - scheme: default
       toggle:
