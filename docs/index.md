@@ -1,5 +1,5 @@
 ---
-title: test
+title: home
 ᴴₒᴴₒᴴₒ: true
 ---
 code:
@@ -15,5 +15,3 @@ code:
     var $ = lib.c.$;
     ```
 
-
-123.
