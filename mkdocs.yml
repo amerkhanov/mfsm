@@ -5,8 +5,7 @@ theme:
     - navigation.instant
     - content.code.annotate
     - content.tabs.link
-    palette:
-
+  palette:
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
       toggle:
