@@ -1,6 +1,8 @@
 site_name: mfsm pro
 theme:
   name: material
+  features:
+    - navigation.instant
   
 markdown_extensions:
   - pymdownx.highlight:
