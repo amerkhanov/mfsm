@@ -61,7 +61,7 @@ extra:
   social:
     - icon: fontawesome/solid/paper-plane
       link: mailto:renat@amerkhanov.ru
-    - icon: :fontawesome/brands/telegram
+    - icon: fontawesome/brands/telegram
       link: https://t.me/proHPSM
 
 copyright: Copyright &copy; 2022 mfsm.pro
