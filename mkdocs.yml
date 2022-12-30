@@ -2,7 +2,8 @@ site_name: mfsm pro
 theme:
   name: material
   language: ru
-  icon: material/dev-to
+  icon: 
+    logo: material/dev-to
   features:
     - navigation.instant
     - content.code.annotate
