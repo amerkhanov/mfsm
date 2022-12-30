@@ -2,7 +2,7 @@ site_name: mfsm pro
 theme:
   name: material
   language: ru
-  icon: simple/xdadevelopers
+  icon: material/dev-to
   features:
     - navigation.instant
     - content.code.annotate
