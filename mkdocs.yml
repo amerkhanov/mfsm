@@ -3,7 +3,7 @@ theme:
   name: material
   language: ru
   icon: 
-    logo: fontawesome/solid-code-compare
+    logo: fontawesome/solid/code-compare
   features:
     - navigation.instant
     - content.code.annotate
