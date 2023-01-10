@@ -1,4 +1,4 @@
-site_name: mfsm pro
+site_name: Micro Focus Service Manager
 theme:
   name: material
   language: ru
@@ -62,11 +62,11 @@ extra:
     property: G-E57DMP7K8T
   generator: false
   social:
-    - icon: fontawesome/solid/paper-plane
+    - icon: fontawesome/solid/at
       link: mailto:renat@amerkhanov.ru
-    - icon: fontawesome/brands/telegram
+    - icon: fontawesome/solid/paper-plane
       link: https://t.me/proHPSM
 
-copyright: Copyright &copy; 2022 mfsm.pro
+copyright: Copyright &copy; 2022 - 2023 mfsm.pro
 
 
